@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sahsu/sahsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Termly
@@ -11,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: send me email sahsu.mobi@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am boring person.
--->
+
