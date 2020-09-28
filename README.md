@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Termly, as serior Devops.
+- 🔭 I’m currently looking for remote senior devops job.
 - 🌱 I’m currently learning Rails, indie hacker and also be a father.
 - 💬 Ask me about how to be devops in Taiwan.
 - 📫 How to reach me: send me email sahsu.mobi@gmail.com
