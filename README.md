@@ -17,3 +17,7 @@ do really more and fun:
 > https://github.com/coderjojo/creative-profile-readme
 
 ### Enjoy!
+
+Now:
+
+I am currently playing with https://exercism.org/profiles/sahsu.
